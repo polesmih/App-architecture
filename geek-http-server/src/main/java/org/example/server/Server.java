@@ -7,9 +7,9 @@ import java.net.Socket;
 import static org.example.server.Const.*;
 import static org.example.server.processing.Requests.handleRequest;
 
-public class StartServer {
+public class Server {
 
-    public StartServer() {
+    public void start() {
         try (
             ServerSocket serverSocket = new ServerSocket(PORT)) {
             System.out.println(STARTED);
