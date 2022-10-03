@@ -1,3 +1,3 @@
 # App-architecture
 
-Практические задания по курсу "Архитектуры и шаблоны проектирования на Java" на GeekBrains
+Practical tasks for the course "Architectures and design patterns in Java" on GeekBrains
