@@ -16,8 +16,7 @@
   </properties>
 
   <modules>
-    <module>http-server</module>
-    <module>geek-http-server</module>
+      <module>generating_patterns</module>
   </modules>
 
 
