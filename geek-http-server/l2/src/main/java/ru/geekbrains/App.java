@@ -3,8 +3,7 @@ package ru.geekbrains;
 public class App {
 
     public static void main(String[] args) {
-
-    HttpServer.start();
+        HttpServer.start(args);
 
     }
 }
