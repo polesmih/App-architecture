@@ -1,10 +1,10 @@
-package geekbrains.service.file_service;
+package geekbrains.service;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
-public class FileServiceImpl implements FileService{
+ class FileServiceImpl implements FileService{
     private final String dir;
 
     public FileServiceImpl(String dir) {

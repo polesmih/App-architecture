@@ -1,5 +1,4 @@
-package geekbrains.service.socket_service;
-
+package geekbrains.service;
 
 import geekbrains.logger.ConsoleLogger;
 import geekbrains.logger.Logger;
@@ -10,7 +9,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class SocketServiceImpl implements SocketService, Closeable {
+class SocketServiceImpl implements SocketService, Closeable {
     private static final Logger logger = new ConsoleLogger();
     private final Socket socket;
     public SocketServiceImpl(Socket socket) {

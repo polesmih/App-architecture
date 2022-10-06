@@ -2,11 +2,11 @@ package geekbrains;
 
 import geekbrains.config.ServerConfig;
 import geekbrains.config.ServerConfigFactory;
-import geekbrains.core.RequestHandler;
+import geekbrains.service.RequestHandler;
 import geekbrains.core.parser.RequestParserImpl;
 import geekbrains.core.serialiser.ResponseSerializerImpl;
-import geekbrains.factories.FileServiceFactory;
-import geekbrains.factories.SocketServiceFactory;
+import geekbrains.service.FileServiceFactory;
+import geekbrains.service.SocketServiceFactory;
 import geekbrains.logger.ConsoleLogger;
 import geekbrains.logger.Logger;
 

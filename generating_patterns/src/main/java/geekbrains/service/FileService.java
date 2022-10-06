@@ -1,4 +1,4 @@
-package geekbrains.service.file_service;
+package geekbrains.service;
 
 public interface FileService {
 

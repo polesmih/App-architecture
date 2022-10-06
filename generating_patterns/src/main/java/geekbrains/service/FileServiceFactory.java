@@ -1,7 +1,7 @@
-package geekbrains.factories;
+package geekbrains.service;
 
 
-import geekbrains.service.file_service.FileServiceImpl;
+import geekbrains.service.FileServiceImpl;
 
 public class FileServiceFactory {
     public static FileServiceImpl create(String config){

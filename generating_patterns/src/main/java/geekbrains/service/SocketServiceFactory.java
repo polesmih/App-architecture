@@ -1,7 +1,5 @@
-package geekbrains.factories;
+package geekbrains.service;
 
-
-import geekbrains.service.socket_service.SocketServiceImpl;
 
 import java.net.Socket;
 

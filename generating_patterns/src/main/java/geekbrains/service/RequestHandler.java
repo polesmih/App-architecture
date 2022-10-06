@@ -1,4 +1,4 @@
-package geekbrains.core;
+package geekbrains.service;
 
 import geekbrains.core.domain.HttpRequest;
 import geekbrains.core.domain.HttpResponse;
@@ -6,8 +6,6 @@ import geekbrains.core.parser.RequestParserImpl;
 import geekbrains.core.serialiser.ResponseSerializerImpl;
 import geekbrains.logger.ConsoleLogger;
 import geekbrains.logger.Logger;
-import geekbrains.service.file_service.FileServiceImpl;
-import geekbrains.service.socket_service.SocketServiceImpl;
 
 import java.io.IOException;
 import java.util.Deque;

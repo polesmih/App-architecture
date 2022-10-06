@@ -1,4 +1,4 @@
-package geekbrains.service.socket_service;
+package geekbrains.service;
 
 import java.util.Deque;
 
