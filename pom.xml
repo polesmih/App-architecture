@@ -17,6 +17,7 @@
 
   <modules>
       <module>generating_patterns</module>
+    <module>structural_patterns</module>
   </modules>
 
 
