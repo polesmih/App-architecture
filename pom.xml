@@ -19,6 +19,7 @@
       <module>generating_patterns</module>
     <module>structural_patterns</module>
       <module>behavioral_patterns</module>
+      <module>system_patterns</module>
   </modules>
 
 
