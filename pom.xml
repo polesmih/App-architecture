@@ -20,6 +20,7 @@
     <module>structural_patterns</module>
       <module>behavioral_patterns</module>
       <module>system_patterns</module>
+      <module>mvc_pattern</module>
   </modules>
 
 
